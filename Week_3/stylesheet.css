@@ -1,0 +1,49 @@
+.header {
+
+    position:absolute;
+    left:0;
+    top:0;
+    z-index:3;
+}
+
+.main {
+
+
+    left:0;
+    top:0;
+    z-index:1;
+    margin-top:250;
+
+
+
+
+}
+
+#logotable {
+
+    float:right;
+    padding-left:500;
+}
+
+#recipetable {
+        height: 430px;
+        margin-left: 400;
+        margin-right: auto;
+        margin-top:none;
+
+        float:left;
+
+
+}
+
+
+
+#side {
+
+z-index: 1;
+float:left;
+margin-left:320;
+
+
+}
+
